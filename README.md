@@ -19,14 +19,8 @@ I love building dynamic applications, maintain infrastructure in AWS cloud, writ
 
 
 ## Experience
-I have 4+ years of experience in developing full-stack web applications. My expertise spans across the entire development lifecycle, from initial concept and design to deployment and maintenance.
+I have 5+ years of experience in developing full-stack web applications. My expertise spans across the entire development lifecycle, from initial concept and design to deployment and maintenance.
 
 ## Personal Philosophy
 I believe in continuous learning and keeping up with the latest trends in my field. My goal is to work on projects that help people and make a positive difference, while also improving my skills and knowledge along the way.
-
-## Pinned Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iam-jmismail&repo=json-to-equation)](https://github.com/iam-jmismail/json-to-equation)
-
-## Pinned Gists
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
